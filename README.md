@@ -1,9 +1,9 @@
 # Brian Haney
-## I am a recent college graduate and military vet trying to expand my tangible skills in business with programs like Tableau, Python, and SQL. I plan on going into a business consulting and wish to speak the language of Data.
+##### I am a recent college graduate and military vet trying to expand my tangible skills in business with programs like Tableau, Python, and SQL. I plan on going into a business consulting and wish to speak the language of Data.
 ### Goals Include the following:
-#### * Understand Tableu, Python, SQL 
-#### * Develop a marketable portfolio for Data Analytics 
-#### * Understand how to answer core business problems with an analytical solution
+##### * Understand Tableu, Python, SQL 
+##### * Develop a marketable portfolio for Data Analytics 
+##### * Understand how to answer core business problems with an analytical solution
 # Python Article
 [Python Article](https://lukasz.langa.pl/f15a8851-af26-4e94-a4b1-c146c57c9d20/?ref=refind)
 
